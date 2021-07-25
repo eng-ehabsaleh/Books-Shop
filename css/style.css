@@ -35,12 +35,10 @@ table,th,td{
 }
 
 #sub{
-    background-color: #C68B59; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
+    background-color: #C68B59; 
+ 
   text-align: center;
-  text-decoration: none;
+  
   display: inline-block;
   font-size: 16px;
 }
